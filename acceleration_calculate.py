@@ -23,9 +23,6 @@ while i<n-1:
     dt += dT
     i += 1
 
-
-
-
 #N = len(M0)
 i = 1
 a = []
